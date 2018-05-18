@@ -1,0 +1,86 @@
+h1{
+/*Posiciono la imagen en el centro del navegador*/
+position: center;
+text-align: center;
+}
+h2{
+position: center;
+text-align: center;
+font-family: fantasy;
+font-Family: Franklin Ghotic Demi;
+}
+h4{
+position: relative;;
+left: 50%;
+right: 50%;
+}
+h5{
+position: center;
+text-align: center;
+font-size: courier;
+font-family: Franklin Ghotic Demi;
+}
+p{
+font-family: fantasy;
+font-size: courier;
+font-family: fantasy;
+}
+body{
+background: url(https://i.pinimg.com/originals/62/bc/16/62bc16005eb9267289b871bb04dc8d1c.gif) repeat;
+font-family: fantasy;
+}
+div{
+text-align: center;
+position: absolute;
+/*nos posicionamos en el centro del navegador*/
+top:50%;
+left:50%;
+/*determinamos una anchura*/
+width:800px;
+/*indicamos que el margen izquierdo, es la mitad de la anchura*/
+margin-left:-400px;
+/*determinamos una altura*/
+height:400px;
+/*indicamos que el margen superior, es la mitad de la altura*/
+margin-top:-130px;
+border:15px solid #808080;
+padding:20px;
+border-top-color: rgb(0, 102, 300, 0.705);
+border-right-color: rgb(0, 102, 300, 0.705);
+border-bottom-color: rgba(0, 102, 300, 0.705);
+border-left-color: rgba(0, 102, 300, 0.705);
+border-top-style: dotted;
+border-right-style: double;
+border-bottom-style: dotted;
+border-left-style: double;
+  }
+section{
+  left: 50%;
+  right: 50%;
+  top:50%;
+  bottom:50%
+  position: center;
+  font-size: courier;
+  }
+}
+
+h2{
+font-size: courier;
+font-family: fantasy;
+}
+
+h3{
+font-size: courier;
+font-family: fantasy;
+}
+
+div{
+    border-top-color: rgb(0, 100, 255);
+    border-right-color: rgb(0, 300, 255);
+    border-bottom-color: rgba(0, 102, 300, 0.705);
+    border-left-color: rgba(0, 174, 300, 0.692);
+    border-top-style: dashed;
+    border-right-style: double;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+  }

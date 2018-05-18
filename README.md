@@ -4,4 +4,4 @@ Si el usuario desea jugar entonces las preguntas irán apareciendo conforme el o
                              *Al finalizar la trivia se observarán los aciertos del usuario. 
 
 
-pd: Estoy es un simulacro, estoy aprendiendo.
+pd: Esto es un simulacro, estoy aprendiendo.
